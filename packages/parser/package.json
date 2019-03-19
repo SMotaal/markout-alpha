@@ -1,0 +1,12 @@
+{
+	"name": "@markout/parser",
+	"version": "0.0.0-alpha.0",
+	"author": "Saleh Abdel Motaal <saleh@grasppe.com>",
+	"license": "MIT",
+	"type": "module",
+	"exports": {},
+	"devDependencies": {
+		"@smotaal/tokenizer": "*",
+		"pseudom": "*"
+	}
+}
